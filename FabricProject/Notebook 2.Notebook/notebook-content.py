@@ -15,7 +15,8 @@
 # Type here in the cell editor to add code!
 display("Hello World!")
 display("Hey  there !!!!")
-display("BC Hydro")
+display("BC Hydro"
+
 # METADATA ********************
 
 # META {
